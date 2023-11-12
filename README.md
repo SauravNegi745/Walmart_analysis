@@ -34,13 +34,13 @@ rating	Rating	FLOAT(2, 1)
 Product Analysis
 Conduct analysis on the data to understand the different product lines, the products lines performing best and the product lines that need to be improved.
 
-<h1>Sales Analysis</h1>
+<h2>Sales Analysis</h2>
 This analysis aims to answer the question of the sales trends of product. The result of this can help use measure the effectiveness of each sales strategy the business applies and what modificatoins are needed to gain more sales.
 
-<h1>Customer Analysis</h1>
+<h2>Customer Analysis</h2>
 This analysis aims to uncover the different customers segments, purchase trends and the profitability of each customer segment.
 
-<h1>Approach Used</h1>
+<h2>Approach Used</h2>
 Data Wrangling: This is the first step where inspection of data is done to make sure NULL values and missing values are detected and data replacement methods are used to replace, missing or NULL values.
 Build a database
 Create table and insert the data.
